@@ -1,0 +1,14 @@
+$color1: #222;
+$color2: #fff;
+$color3: #000;
+$color4: yellow;
+
+textarea{
+    background-color: $color1;
+    color: $color2;
+}
+.btn{
+    background-color: $color1;
+    color: $color4;
+    border: 2px solid $color1;
+}
