@@ -406,6 +406,7 @@ nav {
 .bubbles img{
   width: 50px;
   animation: bubble 7s linear infinite;
+  z-index: 3;
 }
 
 .bubbles{
@@ -415,6 +416,7 @@ nav {
   justify-content: space-around;
   position: absolute;
   bottom: -70;
+  z-index: 3;
 }
 
 @keyframes bubble{
