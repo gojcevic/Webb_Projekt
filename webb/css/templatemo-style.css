@@ -46,10 +46,11 @@ body, html {
   margin-bottom: 0;
   margin-top: 220px;
   padding: 20px 60px;
+  font-style: italic;
 }
 
 .page-heading .heading-content em {
-  font-style: bold;
+  font-style: normal;
   font-weight: 200;
 }
 
