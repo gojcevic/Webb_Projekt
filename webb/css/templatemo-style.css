@@ -64,7 +64,7 @@ body, html {
 }
   
   .txt::before{
-    content: 'hey';
+    content: 'CarDude';
     position: absolute;
     mix-blend-mode: difference;
     filter: blur(3px);
